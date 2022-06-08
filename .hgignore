@@ -1,0 +1,2 @@
+^(\.tox|\.idea|docs/_build|dist|build|\.coverage)$
+\.(pyc|pyo|egg-info)$
